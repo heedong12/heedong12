@@ -14,9 +14,21 @@
 
 ## 🌸 SNS 🌸
 <a href="mailto:dlgmldus020914@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logoGmail&logoColor=white" ></a>
-<a href="https://heedonguri.tistory.com"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://heedonguri.tistory.com"/></a>
+<a href="https://heedonguri.tistory.com" target="_blank">
+  <img src="https://img.shields.io/badge/My%20Tech%20Blog-A9BCF5?style=flat-square&logo=github&logoColor=white" alt="My Tech Blog" />
+</a>
+
 <br/>
 <br/>
 <br/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=heedong12&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/heedong12?pet-id=718379741224498113"
+    width="600"
+    height="120"
+  />
+</a>
+  
+
 
 ## [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heedong12&show_icons=true&theme=buefy )](https://github.com/anuraghazra/github-readme-stats)
